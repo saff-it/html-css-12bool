@@ -152,7 +152,7 @@
  *************************************************/
 
 
- @media all and (min-width: 768) {
+ @media screen and (min-width: 768) {
 
     .col-md-1 {
        flex-basis: calc((100% / 12) * 1);
