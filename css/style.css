@@ -5,3 +5,9 @@
     padding: 10px;
     text-align: center;
  }
+
+
+ div.green {
+    background-color: rgb(47, 218, 47);
+    border: 1px solid rgb(19, 108, 224);
+ }
