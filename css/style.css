@@ -20,3 +20,15 @@
  div.empty-hg{
      height: 35px;
  }
+
+ .row.custom-cntr{
+    justify-content: center;
+ }
+
+ .row.custom-end{
+    justify-content: flex-end;
+ }
+
+ div.bg-hgt{
+     height: 80px;
+ }
