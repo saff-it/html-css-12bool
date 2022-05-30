@@ -32,3 +32,15 @@
  div.bg-hgt{
      height: 80px;
  }
+
+ div.to-be-aligned-top{
+     align-items: flex-start;
+ }
+
+ div.to-be-aligned-mdl{
+    align-items: center;
+}
+
+div.to-be-aligned-btm{
+    align-items: flex-end;
+}
