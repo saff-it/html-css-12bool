@@ -1,7 +1,7 @@
-div.col{
+[class*="col-"] {
     color: white;
     background-color: rgb(19, 108, 224);
     border: 1px solid white;
     padding: 10px;
     text-align: center;
-}
+ }
